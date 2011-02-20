@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'spec'
+require 'rspec'
 require 'twitter2campfire'
 
 describe Twitter2Campfire, "with a cachefile" do
